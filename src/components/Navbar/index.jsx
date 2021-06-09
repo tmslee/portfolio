@@ -1,5 +1,4 @@
 import LinkButton from '../Common/LinkButton';
-
 import "./styles/index.scss";
 
 export default function Navbar() {
